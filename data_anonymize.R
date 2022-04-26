@@ -36,3 +36,5 @@ ID_occur_more_than_once <- ID_occur[ID_occur$Freq > 1,]
 # check
 check1 <- data1new %>% dplyr::filter(ID_copy == 2)
 check1
+
+# 4/25
